@@ -12,7 +12,7 @@ const Home = () => {
             <p className='text-4xl mb-5'> Hi, I'm</p>
             <h3 className='text-4xl'>Faith Obetta</h3>
             <hr />
-            <p className='mt-10 text-2xl text-slate-300 font-sans gradiant-text running-text'>A Front-End Developer and UX/UI Designer</p>
+            <p className='mt-10 text-2xl text-slate-300 font-sans gradiant-text running-text'>A Front-End Developer & UX/UI Designer</p>
             <div className='flex mt-6 space-x-6 cursor-pointer'>
                 <a href="https://github.com/faithobetta"><FaGithub size={40} className='border-4 hover:border-indigo-800 rounded-full'/></a>
                 <BsFacebook size={40} className='border-4 hover:border-indigo-800 rounded-full'/>
