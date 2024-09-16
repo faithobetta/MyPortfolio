@@ -5,7 +5,7 @@ import { FaMapMarkedAlt } from "react-icons/fa"
 const Contact = () => {
   return (
     <>
-        <div className='border border-white mx-20 text-white py-20' id="contact">
+        <div className='lg:border lg:border-white lg:mx-20 text-white py-20' id="contact">
             <div className="container mx-auto px-8 md:px-16 lg:px-24">
                 <h2 className="text-4xl font-bold text-center mb-12">Contact Me</h2>
 
