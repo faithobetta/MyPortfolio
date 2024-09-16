@@ -1,0 +1,17 @@
+
+.gradiant-text{
+  -webkit-background-clip: text;
+  @apply bg-gradient-to-t from-blue-500 to-cyan-500;
+  overflow: hidden;
+  animation: typing-text steps(40) 3s infinite;
+  text-wrap: nowrap;
+  width:0;
+}
+@keyframes typing-text{
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
