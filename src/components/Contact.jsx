@@ -27,13 +27,14 @@ const Contact = () => {
                             <span>+44 07721810275</span>
                         </div>
 
-                        <div className='mb-4 '>
+                        <div className='mb-8 '>
                             <FaMapMarkedAlt className="inline-block text-indigo-800 mr-2"></FaMapMarkedAlt>
-                            <span> 32 Ludovick Walk, SW15 5LE, London, United Kingdom</span>
+                            <span className=""> 32 Ludovick Walk, SW15 5LE, London, United Kingdom</span>
                         </div>
                    </div>
                    <div className='flex-1 w-full'>
                         <form action=""className="space-y-4" >
+                            <h2 className="text-4xl">Get in Touch</h2>
                            <div>
                                 <label htmlFor="name" className="block mb-2"> Enter Your Name</label>
                                 <input type="text" className="w-full p-2 rounded text-black bg-white border border-gray-600 focus:outline-none focus:border-green-400" placeholder="Enter Your Name"/>

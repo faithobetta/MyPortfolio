@@ -1,4 +1,5 @@
 import logo from "../assets/logo.png"
+import {FaGithub} from "react-icons/fa"
 
 export default function Projects(){
 
@@ -17,6 +18,7 @@ export default function Projects(){
                                     <img src={logo} alt="" width={150} height={150} />
                                 </div>
                                 <a href="#" className="uppercase tracking-wide">Makeup Match</a>
+                                <a href="" className="text-4xl"><FaGithub /></a>
                             </div>
                         </div>
 
@@ -29,6 +31,7 @@ export default function Projects(){
                                     <img src={logo} alt="" width={150} height={150} />
                                 </div>
                                 <a href="#" className="uppercase tracking-wide">Makeup Match</a>
+                                <a href="" className="text-4xl"><FaGithub /></a>
                             </div>
                         </div>
 
@@ -40,6 +43,7 @@ export default function Projects(){
                                     <img src={logo} alt="" width={150} height={150} />
                                 </div>
                                 <a href="#" className="uppercase tracking-wide">Makeup Match</a>
+                                <a href="" className="text-4xl"><FaGithub /></a>
                             </div>
                         </div>
 
@@ -51,6 +55,7 @@ export default function Projects(){
                                     <img src={logo} alt="" width={150} height={150} />
                                 </div>
                                 <a href="#" className="uppercase tracking-wide">Makeup Match</a>
+                                <a href="" className="text-4xl"><FaGithub /></a>
                             </div>
                         </div>
 
