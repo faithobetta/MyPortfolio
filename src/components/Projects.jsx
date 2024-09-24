@@ -4,6 +4,38 @@ import image2 from "../assets/image2.png"
 import image3 from "../assets/image3.png"
 import {FaGithub} from "react-icons/fa"
 
+const projects[
+    {
+        id: 1,
+        image: "logo",
+        title: "Makeup Match",
+        demoLink: "http://make-up-match.shop",
+        github: "https://github.com/faithobetta/MakeupMatch",
+    },
+    {
+        id: 2,
+        image: "image",
+        title: "CatPals",
+        demoLink: "https://cat-pals.vercel.app/",
+        github: "https://github.com/faithobetta/CatPals",
+    },
+    {
+        id: 3,
+        image: "image2",
+        title: "Podcast",
+        demoLink: "podcastapp-psi.vercel.app",
+        github: "https://github.com/faithobetta/frontend-podcast",
+    },
+    {
+        id: 4,
+        image: "image3",
+        title: "EventFinder",
+        demoLink: "https://event-finder-zeta.vercel.app/",
+        github: "https://github.com/faithobetta/EventFinder",
+    },
+   
+]
+
 export default function Projects(){
 
     return(
