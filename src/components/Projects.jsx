@@ -2,6 +2,7 @@ import logo from "../assets/logo.png";
 import image from "../assets/image.png";
 import image2 from "../assets/image2.png";
 import image3 from "../assets/image3.png";
+import shopnow from "../assets/shopnow.jpg";
 import { FaGithub } from "react-icons/fa";
 
 const projects = [
@@ -32,6 +33,13 @@ const projects = [
         title: "EventFinder",
         demoLink: "https://event-finder-zeta.vercel.app/",
         github: "https://github.com/faithobetta/EventFinder",
+    },
+    {
+        id: 5,
+        image: shopnow,
+        title: "ShopNow",
+        demoLink: "https://shopnow-iota.vercel.app/",
+        github: "https://github.com/faithobetta/shopnow",
     },
 ];
 
