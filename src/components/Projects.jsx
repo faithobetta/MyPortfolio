@@ -8,39 +8,40 @@ import { FaGithub } from "react-icons/fa";
 const projects = [
     {
         id: 1,
+        image: shopnow,
+        title: "ShopNow",
+        demoLink: "https://shopnow-iota.vercel.app/",
+        github: "https://github.com/faithobetta/shopnow",
+    },
+    {
+        id: 2,
         image: logo,
         title: "Makeup Match",
         demoLink: "http://make-up-match.shop",
         github: "https://github.com/faithobetta/MakeupMatch",
     },
     {
-        id: 2,
+        id: 3,
         image: image,
         title: "CatPals",
         demoLink: "https://cat-pals.vercel.app/",
         github: "https://github.com/faithobetta/CatPals",
     },
     {
-        id: 3,
+        id: 4,
         image: image2,
         title: "Podcast",
         demoLink: "https://podcastapp-psi.vercel.app/",
         github: "https://github.com/faithobetta/frontend-podcast",
     },
     {
-        id: 4,
+        id: 5,
         image: image3,
         title: "EventFinder",
         demoLink: "https://event-finder-zeta.vercel.app/",
         github: "https://github.com/faithobetta/EventFinder",
     },
-    {
-        id: 5,
-        image: shopnow,
-        title: "ShopNow",
-        demoLink: "https://shopnow-iota.vercel.app/",
-        github: "https://github.com/faithobetta/shopnow",
-    },
+   
 ];
 
 export default function Projects() {
