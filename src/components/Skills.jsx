@@ -9,6 +9,8 @@ const technology = [
     { id: 8, name: "Express JS", rating: 8/12 },
     { id: 9, name: "MySQL", rating: 8/12 },
     { id: 10, name: "MongoDB", rating: 8/12 },
+    { id: 11, name: "WordPress", rating: 8/12 },
+    { id: 12, name: "WebFlow", rating: 8/12 },
 ]
 
 
