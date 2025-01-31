@@ -3,18 +3,19 @@ const technology = [
     { id: 2, name: "Tailwind CSS", rating: 10/12 },
     { id: 3, name: "Javascript", rating: 11/12 },
     { id: 4, name: "React JS", rating: 11/12 },
-    { id: 5, name: "UI|UX", rating: 10/12 },
-    { id: 6, name: "figma", rating: 8/12 },
-    { id: 7, name: "Node JS", rating: 8/12 },
-    { id: 8, name: "Express JS", rating: 8/12 },
-    { id: 9, name: "MySQL", rating: 8/12 },
-    { id: 10, name: "MongoDB", rating: 8/12 },
-    { id: 11, name: "WordPress", rating: 8/12 },
-    { id: 12, name: "WebFlow", rating: 8/12 },
+    { id: 5, name: "WordPress", rating: 11/12 },
+    { id: 6, name: "WebFlow", rating: 11/12 },
+    { id: 7, name: "UI|UX", rating: 11/12 },
+    { id: 8, name: "figma", rating: 11/12 },
+    { id: 9, name: "Node JS", rating: 10/12 },
+    { id: 10, name: "Express JS", rating: 10/12 },
+    { id: 11, name: "MySQL", rating: 10/12 },
+    { id: 12, name: "MongoDB", rating: 10/12 },
+
 ]
 
 
-const Skills = () => {
+const Skills = () => {  
     return (
 
     <>
